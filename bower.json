@@ -2,5 +2,8 @@
   "name": "template",
   "dependencies": {
     "jquery": "~2.1.3"
+  },
+  "devDependencies": {
+    "susy": "~2.2.2"
   }
 }
